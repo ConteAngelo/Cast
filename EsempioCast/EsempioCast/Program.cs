@@ -11,7 +11,7 @@ namespace EsempioCast
         static void Main(string[] args)
         {
             int a = -65555;
-            Console.WriteLine($"il valore di a è {a}");
+            Console.WriteLine($"il valore di a è {a}")
             short s = (short)a;
             Console.WriteLine($"il valore di s è {s}");
             Console.ReadLine();
